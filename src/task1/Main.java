@@ -1,1 +1,2 @@
 ödevi yap 
+ödev yapıldı
